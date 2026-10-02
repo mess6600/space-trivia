@@ -1,0 +1,552 @@
+[
+  {
+    "id": "solar-01",
+    "question": "After the Sun, what is the nearest star to Earth?",
+    "choices": {
+      "A": "Sirius",
+      "B": "Ursa Major",
+      "C": "Vega",
+      "D": "Proxima Centauri"
+    },
+    "correct": "D"
+  },
+  {
+    "id": "solar-02",
+    "question": "Which planet is closest to the Sun?",
+    "choices": {
+      "A": "Venus",
+      "B": "Mercury",
+      "C": "Earth",
+      "D": "Mars"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-03",
+    "question": "Which planet is known as the Red Planet?",
+    "choices": {
+      "A": "Jupiter",
+      "B": "Mars",
+      "C": "Venus",
+      "D": "Mercury"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-04",
+    "question": "Which is the largest planet in our solar system?",
+    "choices": {
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Neptune",
+      "D": "Uranus"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-05",
+    "question": "Which planet has the most prominent ring system?",
+    "choices": {
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-06",
+    "question": "What is the hottest planet in our solar system?",
+    "choices": {
+      "A": "Mercury",
+      "B": "Venus",
+      "C": "Mars",
+      "D": "Jupiter"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-07",
+    "question": "Which planet rotates on its side?",
+    "choices": {
+      "A": "Neptune",
+      "B": "Uranus",
+      "C": "Saturn",
+      "D": "Venus"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-08",
+    "question": "What is the Sun primarily made of?",
+    "choices": {
+      "A": "Oxygen and nitrogen",
+      "B": "Hydrogen and helium",
+      "C": "Iron and nickel",
+      "D": "Carbon and silicon"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-09",
+    "question": "Which dwarf planet was reclassified from planet status in 2006?",
+    "choices": {
+      "A": "Ceres",
+      "B": "Pluto",
+      "C": "Eris",
+      "D": "Haumea"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-10",
+    "question": "What is the asteroid belt located between?",
+    "choices": {
+      "A": "Earth and Mars",
+      "B": "Mars and Jupiter",
+      "C": "Jupiter and Saturn",
+      "D": "Saturn and Uranus"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-11",
+    "question": "Which spacecraft has left the heliosphere into interstellar space first?",
+    "choices": {
+      "A": "Voyager 2",
+      "B": "Voyager 1",
+      "C": "Pioneer 11",
+      "D": "New Horizons"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-12",
+    "question": "What galaxy do we live in?",
+    "choices": {
+      "A": "Andromeda",
+      "B": "Milky Way",
+      "C": "Triangulum",
+      "D": "Whirlpool"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-13",
+    "question": "What is a light-year a measure of?",
+    "choices": {
+      "A": "Time",
+      "B": "Distance",
+      "C": "Brightness",
+      "D": "Mass"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-14",
+    "question": "Which planet has a day longer than its year?",
+    "choices": {
+      "A": "Mercury",
+      "B": "Venus",
+      "C": "Mars",
+      "D": "Jupiter"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-15",
+    "question": "What are Saturn's rings mostly made of?",
+    "choices": {
+      "A": "Gas clouds",
+      "B": "Ice and rock particles",
+      "C": "Liquid water",
+      "D": "Metal sheets"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-16",
+    "question": "Which moon is the largest in the solar system?",
+    "choices": {
+      "A": "Titan",
+      "B": "Ganymede",
+      "C": "Callisto",
+      "D": "Io"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-17",
+    "question": "Which moon has a thick atmosphere and lakes of hydrocarbons?",
+    "choices": {
+      "A": "Europa",
+      "B": "Titan",
+      "C": "Enceladus",
+      "D": "Triton"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-18",
+    "question": "Which Jovian moon is famous for active volcanoes?",
+    "choices": {
+      "A": "Europa",
+      "B": "Io",
+      "C": "Ganymede",
+      "D": "Callisto"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-19",
+    "question": "Which moon has a subsurface ocean and icy crust of high interest for life?",
+    "choices": {
+      "A": "Phobos",
+      "B": "Europa",
+      "C": "Deimos",
+      "D": "Miranda"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-20",
+    "question": "What is the Kuiper Belt?",
+    "choices": {
+      "A": "A belt of gas near Mercury",
+      "B": "A region of icy bodies beyond Neptune",
+      "C": "Saturn's rings",
+      "D": "An asteroid mining zone near Earth"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-21",
+    "question": "What is the Oort Cloud?",
+    "choices": {
+      "A": "A Martian cloud layer",
+      "B": "A distant spherical reservoir of comets",
+      "C": "Jupiter's storm",
+      "D": "Earth's exosphere"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-22",
+    "question": "Which planet has the Great Red Spot?",
+    "choices": {
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Neptune",
+      "D": "Mars"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-23",
+    "question": "What is the Great Red Spot?",
+    "choices": {
+      "A": "A mountain",
+      "B": "A giant storm",
+      "C": "A crater",
+      "D": "A moon"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-24",
+    "question": "Which planet is densest?",
+    "choices": {
+      "A": "Saturn",
+      "B": "Jupiter",
+      "C": "Earth",
+      "D": "Neptune"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "solar-25",
+    "question": "What causes the seasons on Earth?",
+    "choices": {
+      "A": "Distance to Sun only",
+      "B": "Axial tilt",
+      "C": "Moon phases",
+      "D": "Solar flares"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-26",
+    "question": "Which planet has the fastest winds in the solar system (often cited)?",
+    "choices": {
+      "A": "Jupiter",
+      "B": "Neptune",
+      "C": "Saturn",
+      "D": "Mars"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-27",
+    "question": "What is a comet's glowing envelope called?",
+    "choices": {
+      "A": "Core",
+      "B": "Coma",
+      "C": "Belt",
+      "D": "Mantle"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-28",
+    "question": "What remains of a comet's path that can cause meteor showers?",
+    "choices": {
+      "A": "Dust trail",
+      "B": "Solid ring",
+      "C": "Magnetic field",
+      "D": "Atmosphere"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "solar-29",
+    "question": "Which meteor shower is linked to Comet Swift–Tuttle?",
+    "choices": {
+      "A": "Perseids",
+      "B": "Leonids",
+      "C": "Orionids",
+      "D": "Geminids"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "solar-30",
+    "question": "What is an exoplanet?",
+    "choices": {
+      "A": "A planet inside the Sun",
+      "B": "A planet orbiting another star",
+      "C": "A moon of Jupiter",
+      "D": "A dwarf planet"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-31",
+    "question": "Which method detects exoplanets by dimming of starlight?",
+    "choices": {
+      "A": "Radial velocity",
+      "B": "Transit",
+      "C": "Direct imaging only",
+      "D": "Parallax"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-32",
+    "question": "What is the heliosphere?",
+    "choices": {
+      "A": "Earth's ozone",
+      "B": "The Sun's solar-wind bubble",
+      "C": "A black hole jet",
+      "D": "Mars' atmosphere"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-33",
+    "question": "Which planet has Olympus Mons?",
+    "choices": {
+      "A": "Earth",
+      "B": "Mars",
+      "C": "Venus",
+      "D": "Mercury"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-34",
+    "question": "What is Olympus Mons?",
+    "choices": {
+      "A": "A canyon",
+      "B": "A giant volcano",
+      "C": "A lake",
+      "D": "A moon"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-35",
+    "question": "Which canyon system is on Mars?",
+    "choices": {
+      "A": "Grand Canyon",
+      "B": "Valles Marineris",
+      "C": "Hell's Gate",
+      "D": "Tycho Rille"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-36",
+    "question": "What is the largest known star by radius (commonly cited examples vary)?",
+    "choices": {
+      "A": "The Sun",
+      "B": "UY Scuti (often cited)",
+      "C": "Proxima Centauri",
+      "D": "Sirius B"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-37",
+    "question": "What will the Sun become after its red-giant phase?",
+    "choices": {
+      "A": "Black hole",
+      "B": "White dwarf",
+      "C": "Neutron star",
+      "D": "Pulsar"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-38",
+    "question": "Which planet was visited by Cassini for many years?",
+    "choices": {
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-39",
+    "question": "What did the Huygens probe land on?",
+    "choices": {
+      "A": "Europa",
+      "B": "Titan",
+      "C": "Enceladus",
+      "D": "Triton"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-40",
+    "question": "Which spacecraft studied Jupiter before Juno and dropped a probe?",
+    "choices": {
+      "A": "Cassini",
+      "B": "Galileo",
+      "C": "Voyager 2",
+      "D": "Pioneer 10"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-41",
+    "question": "What is a nebula?",
+    "choices": {
+      "A": "A black hole",
+      "B": "A cloud of gas and dust",
+      "C": "A type of asteroid",
+      "D": "A comet nucleus only"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-42",
+    "question": "Which force keeps planets in orbit?",
+    "choices": {
+      "A": "Magnetism alone",
+      "B": "Gravity",
+      "C": "Dark energy only",
+      "D": "Solar wind pressure alone"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-43",
+    "question": "What is the asteroid that threatened Earth awareness famously in films, but scientifically a near-Earth example class?",
+    "choices": {
+      "A": "Main-belt only",
+      "B": "Near-Earth asteroids",
+      "C": "Only Kuiper objects",
+      "D": "Only comets"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-44",
+    "question": "Which planet has a hexagon-shaped polar storm?",
+    "choices": {
+      "A": "Jupiter",
+      "B": "Saturn",
+      "C": "Uranus",
+      "D": "Neptune"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-45",
+    "question": "What is Ceres?",
+    "choices": {
+      "A": "A moon of Mars",
+      "B": "A dwarf planet in the asteroid belt",
+      "C": "A comet",
+      "D": "A star"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-46",
+    "question": "Which planet has moons named Phobos and Deimos?",
+    "choices": {
+      "A": "Venus",
+      "B": "Mars",
+      "C": "Mercury",
+      "D": "Jupiter"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-47",
+    "question": "What is a supernova?",
+    "choices": {
+      "A": "A quiet star",
+      "B": "An exploding star",
+      "C": "A planet collision",
+      "D": "A solar eclipse"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-48",
+    "question": "Which galaxy is on a collision course with the Milky Way in billions of years?",
+    "choices": {
+      "A": "Triangulum only",
+      "B": "Andromeda",
+      "C": "Large Magellanic Cloud only",
+      "D": "Whirlpool"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-49",
+    "question": "What protects Earth from much solar/cosmic radiation?",
+    "choices": {
+      "A": "Only clouds",
+      "B": "Magnetic field and atmosphere",
+      "C": "The Moon alone",
+      "D": "Saturn's rings"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "solar-50",
+    "question": "Which unit is often used for distances within the solar system?",
+    "choices": {
+      "A": "Light-year only",
+      "B": "Astronomical Unit (AU)",
+      "C": "Parsec only",
+      "D": "Fathom"
+    },
+    "correct": "B"
+  }
+]

@@ -1,0 +1,552 @@
+[
+  {
+    "id": "modern-01",
+    "question": "What was the first spacecraft to orbit a planet other than Earth?",
+    "choices": {
+      "A": "Mariner 9",
+      "B": "Viking 1",
+      "C": "Mir",
+      "D": "Sputnik"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-02",
+    "question": "Which reusable spacecraft first flew in 1981?",
+    "choices": {
+      "A": "Burán",
+      "B": "Space Shuttle",
+      "C": "Dream Chaser",
+      "D": "X-37"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-03",
+    "question": "What was the first Space Shuttle orbiter to fly in space?",
+    "choices": {
+      "A": "Columbia",
+      "B": "Challenger",
+      "C": "Discovery",
+      "D": "Atlantis"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-04",
+    "question": "Which space station was assembled starting in 1998?",
+    "choices": {
+      "A": "Mir",
+      "B": "Skylab",
+      "C": "International Space Station",
+      "D": "Tiangong"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "modern-05",
+    "question": "Who was the first American woman in space?",
+    "choices": {
+      "A": "Sally Ride",
+      "B": "Judy Resnik",
+      "C": "Shannon Lucid",
+      "D": "Mae Jemison"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-06",
+    "question": "Which Shuttle was lost in 1986 after launch?",
+    "choices": {
+      "A": "Columbia",
+      "B": "Challenger",
+      "C": "Endeavour",
+      "D": "Atlantis"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-07",
+    "question": "Which Shuttle was lost during reentry in 2003?",
+    "choices": {
+      "A": "Columbia",
+      "B": "Challenger",
+      "C": "Discovery",
+      "D": "Atlantis"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-08",
+    "question": "What private company first sent astronauts to the ISS in 2020?",
+    "choices": {
+      "A": "Blue Origin",
+      "B": "SpaceX",
+      "C": "Boeing",
+      "D": "Virgin Galactic"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-09",
+    "question": "What is SpaceX's crew spacecraft called?",
+    "choices": {
+      "A": "Starliner",
+      "B": "Crew Dragon",
+      "C": "Orion",
+      "D": "Dream Chaser"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-10",
+    "question": "Which NASA program aims to return humans to the Moon?",
+    "choices": {
+      "A": "Constellation",
+      "B": "Artemis",
+      "C": "Gemini II",
+      "D": "Orion Only"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-11",
+    "question": "What is the name of NASA's deep-space crew capsule?",
+    "choices": {
+      "A": "Orion",
+      "B": "Dragon",
+      "C": "Starliner",
+      "D": "New Shepard"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-12",
+    "question": "Which rocket is NASA's heavy-lift Artemis launcher?",
+    "choices": {
+      "A": "Falcon Heavy",
+      "B": "SLS",
+      "C": "Delta IV Heavy",
+      "D": "Vulcan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-13",
+    "question": "What Chinese space station is currently operational?",
+    "choices": {
+      "A": "Mir",
+      "B": "Tiangong",
+      "C": "Shenzhou",
+      "D": "Skyward"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-14",
+    "question": "Which company flies the New Shepard suborbital vehicle?",
+    "choices": {
+      "A": "SpaceX",
+      "B": "Blue Origin",
+      "C": "Rocket Lab",
+      "D": "Relativity"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-15",
+    "question": "What is the ISS orbital altitude roughly?",
+    "choices": {
+      "A": "100 km",
+      "B": "400 km",
+      "C": "1000 km",
+      "D": "36,000 km"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-16",
+    "question": "How long does one ISS orbit take approximately?",
+    "choices": {
+      "A": "45 minutes",
+      "B": "90 minutes",
+      "C": "3 hours",
+      "D": "24 hours"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-17",
+    "question": "Which telescope succeeded Hubble as NASA's flagship IR observatory?",
+    "choices": {
+      "A": "Spitzer",
+      "B": "James Webb Space Telescope",
+      "C": "Chandra",
+      "D": "Kepler"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-18",
+    "question": "Where is JWST primarily stationed?",
+    "choices": {
+      "A": "Low Earth orbit",
+      "B": "Sun-Earth L2",
+      "C": "Lunar orbit",
+      "D": "Mars orbit"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-19",
+    "question": "What was Skylab?",
+    "choices": {
+      "A": "A Soviet probe",
+      "B": "America's first space station",
+      "C": "A Moon lander",
+      "D": "A Mars rover"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-20",
+    "question": "Which nation operates the Soyuz crew vehicle today?",
+    "choices": {
+      "A": "United States",
+      "B": "Russia",
+      "C": "China",
+      "D": "Japan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-21",
+    "question": "What is Canadarm2?",
+    "choices": {
+      "A": "A Japanese telescope",
+      "B": "The ISS robotic arm",
+      "C": "A European lander",
+      "D": "A Russian airlock"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-22",
+    "question": "Which ESA module is a major ISS laboratory?",
+    "choices": {
+      "A": "Destiny",
+      "B": "Columbus",
+      "C": "Kibo",
+      "D": "Zarya"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-23",
+    "question": "What is Japan's ISS lab module called?",
+    "choices": {
+      "A": "Kibo",
+      "B": "Harmony",
+      "C": "Tranquility",
+      "D": "Unity"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-24",
+    "question": "Who was the first African American woman in space?",
+    "choices": {
+      "A": "Mae Jemison",
+      "B": "Stephanie Wilson",
+      "C": "Joan Higginbotham",
+      "D": "Jessica Watkins"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-25",
+    "question": "Which commercial capsule is Boeing developing for NASA?",
+    "choices": {
+      "A": "Crew Dragon",
+      "B": "Starliner",
+      "C": "Orion",
+      "D": "Dream Chaser"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-26",
+    "question": "What is Starlink?",
+    "choices": {
+      "A": "A Mars colony",
+      "B": "A satellite internet constellation",
+      "C": "A lunar rover",
+      "D": "A space hotel"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-27",
+    "question": "Which company builds Electron rockets?",
+    "choices": {
+      "A": "SpaceX",
+      "B": "Rocket Lab",
+      "C": "ULA",
+      "D": "Arianespace"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-28",
+    "question": "What was Mir?",
+    "choices": {
+      "A": "A U.S. shuttle",
+      "B": "A Soviet/Russian space station",
+      "C": "A Moon base",
+      "D": "A Mars probe"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-29",
+    "question": "Which Shuttle repaired the Hubble Space Telescope?",
+    "choices": {
+      "A": "Several, including Endeavour and Discovery",
+      "B": "Only Atlantis",
+      "C": "Only Columbia",
+      "D": "None"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-30",
+    "question": "What does EVA stand for?",
+    "choices": {
+      "A": "Extra-Vehicular Activity",
+      "B": "External Vacuum Array",
+      "C": "Earth View Antenna",
+      "D": "Emergency Valve Access"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-31",
+    "question": "Which nation launched the Shenzhou crew program?",
+    "choices": {
+      "A": "Japan",
+      "B": "China",
+      "C": "India",
+      "D": "South Korea"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-32",
+    "question": "What is India's crew program currently developing?",
+    "choices": {
+      "A": "Gaganyaan",
+      "B": "Chandrayaan",
+      "C": "Mangalyaan",
+      "D": "NISAR"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-33",
+    "question": "Which probe entered Jupiter orbit in 2016?",
+    "choices": {
+      "A": "Cassini",
+      "B": "Juno",
+      "C": "Galileo",
+      "D": "New Horizons"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-34",
+    "question": "What spacecraft flew by Pluto in 2015?",
+    "choices": {
+      "A": "Voyager 1",
+      "B": "New Horizons",
+      "C": "Pioneer 10",
+      "D": "Dawn"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-35",
+    "question": "Which rover landed on Mars in 2021 with Ingenuity?",
+    "choices": {
+      "A": "Curiosity",
+      "B": "Perseverance",
+      "C": "Opportunity",
+      "D": "Spirit"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-36",
+    "question": "What is Ingenuity?",
+    "choices": {
+      "A": "A Mars helicopter",
+      "B": "A lunar rover",
+      "C": "A space telescope",
+      "D": "A crew capsule"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-37",
+    "question": "Which company proposed Starship for deep-space transport?",
+    "choices": {
+      "A": "Blue Origin",
+      "B": "SpaceX",
+      "C": "Boeing",
+      "D": "Lockheed Martin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-38",
+    "question": "What is the Gateway?",
+    "choices": {
+      "A": "A Mars sample return",
+      "B": "A planned lunar-orbit outpost",
+      "C": "An ISS module",
+      "D": "A Sun probe"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-39",
+    "question": "Which Shuttle orbiter is displayed at the Udvar-Hazy Center?",
+    "choices": {
+      "A": "Discovery",
+      "B": "Enterprise",
+      "C": "Atlantis",
+      "D": "Endeavour"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-40",
+    "question": "What fuel mix powers Falcon 9's first stage?",
+    "choices": {
+      "A": "LH2/LOX",
+      "B": "RP-1/LOX",
+      "C": "Hypergolics",
+      "D": "Methane/LOX"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-41",
+    "question": "What propellant is Starship designed to use?",
+    "choices": {
+      "A": "RP-1/LOX",
+      "B": "Methane/LOX",
+      "C": "LH2/LOX",
+      "D": "Solid fuel"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-42",
+    "question": "Which agency leads Europe's space program?",
+    "choices": {
+      "A": "NASA",
+      "B": "ESA",
+      "C": "CNSA",
+      "D": "JAXA"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-43",
+    "question": "What was the first privately funded human spaceflight?",
+    "choices": {
+      "A": "SpaceShipOne",
+      "B": "Crew Dragon Demo-2",
+      "C": "New Shepard NS-16",
+      "D": "Inspiration4"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-44",
+    "question": "Which mission was the first all-civilian orbital flight?",
+    "choices": {
+      "A": "Polaris Dawn",
+      "B": "Inspiration4",
+      "C": "Axiom-1",
+      "D": "Fram2"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-45",
+    "question": "What does LEO stand for?",
+    "choices": {
+      "A": "Lunar Earth Orbit",
+      "B": "Low Earth Orbit",
+      "C": "Long Endurance Orbit",
+      "D": "Lateral Escape Orbit"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-46",
+    "question": "Which U.S. company builds Vulcan Centaur with Lockheed heritage partners?",
+    "choices": {
+      "A": "SpaceX",
+      "B": "ULA",
+      "C": "Rocket Lab",
+      "D": "Firefly"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-47",
+    "question": "What is a soft capture docking system on ISS often associated with?",
+    "choices": {
+      "A": "IDA / NASA Docking System",
+      "B": "Only hooks",
+      "C": "Magnetic shoes",
+      "D": "Solar sails"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-48",
+    "question": "Which telescope found thousands of exoplanets via transit method?",
+    "choices": {
+      "A": "Hubble",
+      "B": "Kepler",
+      "C": "Chandra",
+      "D": "Spitzer"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "modern-49",
+    "question": "What is the name of NASA's Artemis lunar lander partner for early missions?",
+    "choices": {
+      "A": "Starship HLS (SpaceX)",
+      "B": "Blue Moon only",
+      "C": "Apollo LM",
+      "D": "Dream Chaser"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "modern-50",
+    "question": "Which ISS partner provides the Cupola observation module?",
+    "choices": {
+      "A": "NASA",
+      "B": "ESA",
+      "C": "Roscosmos",
+      "D": "CSA"
+    },
+    "correct": "B"
+  }
+]

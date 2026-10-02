@@ -1,0 +1,552 @@
+[
+  {
+    "id": "early-01",
+    "question": "Who is considered the father of modern rocketry?",
+    "choices": {
+      "A": "Werner Von Braun",
+      "B": "Robert Goddard",
+      "C": "Konstantin Tsiolkovsky",
+      "D": "Sergei Korolev"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-02",
+    "question": "Which nation launched the first human into space?",
+    "choices": {
+      "A": "United States",
+      "B": "Soviet Union",
+      "C": "China",
+      "D": "France"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-03",
+    "question": "Who was the first human in space?",
+    "choices": {
+      "A": "Neil Armstrong",
+      "B": "Alan Shepard",
+      "C": "Yuri Gagarin",
+      "D": "John Glenn"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-04",
+    "question": "What was the name of Yuri Gagarin's spacecraft?",
+    "choices": {
+      "A": "Vostok 1",
+      "B": "Soyuz 1",
+      "C": "Sputnik 2",
+      "D": "Mir 1"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-05",
+    "question": "Who was the first American in space?",
+    "choices": {
+      "A": "John Glenn",
+      "B": "Gus Grissom",
+      "C": "Alan Shepard",
+      "D": "Scott Carpenter"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-06",
+    "question": "Which U.S. program sent the first Americans into space?",
+    "choices": {
+      "A": "Apollo",
+      "B": "Gemini",
+      "C": "Mercury",
+      "D": "Skylab"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-07",
+    "question": "Who was the first American to orbit Earth?",
+    "choices": {
+      "A": "Alan Shepard",
+      "B": "John Glenn",
+      "C": "Wally Schirra",
+      "D": "Gordon Cooper"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-08",
+    "question": "What was John Glenn's Mercury capsule called?",
+    "choices": {
+      "A": "Freedom 7",
+      "B": "Friendship 7",
+      "C": "Liberty Bell 7",
+      "D": "Sigma 7"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-09",
+    "question": "Who was the first woman in space?",
+    "choices": {
+      "A": "Sally Ride",
+      "B": "Valentina Tereshkova",
+      "C": "Svetlana Savitskaya",
+      "D": "Eileen Collins"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-10",
+    "question": "Which spacecraft carried Valentina Tereshkova?",
+    "choices": {
+      "A": "Vostok 6",
+      "B": "Soyuz 1",
+      "C": "Salyut 1",
+      "D": "Voskhod 1"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-11",
+    "question": "What year did Yuri Gagarin fly?",
+    "choices": {
+      "A": "1957",
+      "B": "1961",
+      "C": "1965",
+      "D": "1969"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-12",
+    "question": "Which Soviet designer led the early space program?",
+    "choices": {
+      "A": "Sergei Korolev",
+      "B": "Andrei Tupolev",
+      "C": "Mikhail Kalashnikov",
+      "D": "Igor Sikorsky"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-13",
+    "question": "What was the first animal to orbit Earth?",
+    "choices": {
+      "A": "Ham the chimp",
+      "B": "Laika the dog",
+      "C": "Miss Baker",
+      "D": "Enos"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-14",
+    "question": "Which rocket launched Sputnik 1?",
+    "choices": {
+      "A": "R-7",
+      "B": "Saturn V",
+      "C": "V-2",
+      "D": "Atlas"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-15",
+    "question": "Who was the second human in space?",
+    "choices": {
+      "A": "Alan Shepard",
+      "B": "Gherman Titov",
+      "C": "John Glenn",
+      "D": "Alexei Leonov"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-16",
+    "question": "Which Mercury astronaut flew Liberty Bell 7?",
+    "choices": {
+      "A": "Gus Grissom",
+      "B": "Alan Shepard",
+      "C": "Deke Slayton",
+      "D": "Scott Carpenter"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-17",
+    "question": "What does NASA stand for?",
+    "choices": {
+      "A": "National Aerospace Science Agency",
+      "B": "National Aeronautics and Space Administration",
+      "C": "North American Space Alliance",
+      "D": "Naval Air and Space Association"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-18",
+    "question": "Who was NASA's first administrator?",
+    "choices": {
+      "A": "James Webb",
+      "B": "T. Keith Glennan",
+      "C": "Wernher von Braun",
+      "D": "Hugh Dryden"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-19",
+    "question": "Which program followed Project Mercury?",
+    "choices": {
+      "A": "Apollo",
+      "B": "Gemini",
+      "C": "Shuttle",
+      "D": "Constellation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-20",
+    "question": "Who performed the first spacewalk?",
+    "choices": {
+      "A": "Neil Armstrong",
+      "B": "Ed White",
+      "C": "Alexei Leonov",
+      "D": "Buzz Aldrin"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-21",
+    "question": "Which American performed the first U.S. spacewalk?",
+    "choices": {
+      "A": "Ed White",
+      "B": "Neil Armstrong",
+      "C": "Michael Collins",
+      "D": "Gene Cernan"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-22",
+    "question": "What was the Gemini program's main goal?",
+    "choices": {
+      "A": "Land on the Moon",
+      "B": "Practice rendezvous and EVA",
+      "C": "Build a space station",
+      "D": "Visit Mars"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-23",
+    "question": "Who commanded Gemini 8?",
+    "choices": {
+      "A": "Neil Armstrong",
+      "B": "Jim Lovell",
+      "C": "John Young",
+      "D": "Tom Stafford"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-24",
+    "question": "What emergency ended Gemini 8 early?",
+    "choices": {
+      "A": "Fire",
+      "B": "Thruster stuck on",
+      "C": "Window crack",
+      "D": "Fuel leak only"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-25",
+    "question": "Which Gemini flight featured the first U.S. docking?",
+    "choices": {
+      "A": "Gemini 6",
+      "B": "Gemini 7",
+      "C": "Gemini 8",
+      "D": "Gemini 4"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-26",
+    "question": "How many astronauts flew on Gemini missions?",
+    "choices": {
+      "A": "One",
+      "B": "Two",
+      "C": "Three",
+      "D": "Four"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-27",
+    "question": "Who was the first person to sleep in space?",
+    "choices": {
+      "A": "Yuri Gagarin",
+      "B": "Gherman Titov",
+      "C": "John Glenn",
+      "D": "Alan Shepard"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-28",
+    "question": "Which rocket launched Mercury orbital flights?",
+    "choices": {
+      "A": "Redstone",
+      "B": "Atlas",
+      "C": "Titan II",
+      "D": "Saturn I"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-29",
+    "question": "Which rocket launched Gemini?",
+    "choices": {
+      "A": "Atlas",
+      "B": "Titan II",
+      "C": "Saturn V",
+      "D": "Delta"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-30",
+    "question": "Who flew the longest Mercury mission?",
+    "choices": {
+      "A": "John Glenn",
+      "B": "Gordon Cooper",
+      "C": "Wally Schirra",
+      "D": "Scott Carpenter"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-31",
+    "question": "What was Gordon Cooper's Mercury capsule?",
+    "choices": {
+      "A": "Faith 7",
+      "B": "Freedom 7",
+      "C": "Sigma 7",
+      "D": "Aurora 7"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-32",
+    "question": "Which Soviet craft carried three cosmonauts without spacesuits?",
+    "choices": {
+      "A": "Vostok 3",
+      "B": "Voskhod 1",
+      "C": "Soyuz 1",
+      "D": "Salyut 1"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-33",
+    "question": "Who was the first African American selected as an astronaut (though not flying in that era's crew rotations as planned)?",
+    "choices": {
+      "A": "Guion Bluford",
+      "B": "Ed Dwight",
+      "C": "Charles Bolden",
+      "D": "Ron McNair"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-34",
+    "question": "What year was Sputnik 1 launched?",
+    "choices": {
+      "A": "1955",
+      "B": "1957",
+      "C": "1959",
+      "D": "1961"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-35",
+    "question": "Which U.S. satellite was the first successful orbiter?",
+    "choices": {
+      "A": "Explorer 1",
+      "B": "Vanguard 1",
+      "C": "Telstar",
+      "D": "Tiros 1"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-36",
+    "question": "Who discovered the Van Allen radiation belts using Explorer 1 data?",
+    "choices": {
+      "A": "Carl Sagan",
+      "B": "James Van Allen",
+      "C": "Edwin Hubble",
+      "D": "Fred Whipple"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-37",
+    "question": "Which Mercury astronaut did not fly in Mercury due to a heart condition?",
+    "choices": {
+      "A": "Deke Slayton",
+      "B": "Gus Grissom",
+      "C": "Wally Schirra",
+      "D": "Scott Carpenter"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-38",
+    "question": "What was the nickname of the original Mercury astronauts?",
+    "choices": {
+      "A": "The Mercury Seven",
+      "B": "The Right Stuff Nine",
+      "C": "The Eagle Squadron",
+      "D": "The Astro Corps"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-39",
+    "question": "Who wrote the book The Right Stuff about early astronauts?",
+    "choices": {
+      "A": "Tom Wolfe",
+      "B": "Norman Mailer",
+      "C": "Michael Collins",
+      "D": "Walter Cronkite"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-40",
+    "question": "Which Gemini mission spent nearly 14 days in orbit?",
+    "choices": {
+      "A": "Gemini 4",
+      "B": "Gemini 5",
+      "C": "Gemini 7",
+      "D": "Gemini 12"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "early-41",
+    "question": "Who was the first person to fly in space twice?",
+    "choices": {
+      "A": "John Glenn",
+      "B": "Gus Grissom",
+      "C": "Gherman Titov",
+      "D": "Yuri Gagarin"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-42",
+    "question": "What caused the Apollo 1 tragedy during a ground test?",
+    "choices": {
+      "A": "Cabin fire",
+      "B": "Explosion on pad",
+      "C": "Oxygen leak in space",
+      "D": "Parachute failure"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-43",
+    "question": "Which three astronauts died in the Apollo 1 fire?",
+    "choices": {
+      "A": "Armstrong, Aldrin, Collins",
+      "B": "Grissom, White, Chaffee",
+      "C": "Grissom, Shepard, Glenn",
+      "D": "White, Young, Conrad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-44",
+    "question": "Who was the first human to exceed Mach 1?",
+    "choices": {
+      "A": "Chuck Yeager",
+      "B": "Neil Armstrong",
+      "C": "Alan Shepard",
+      "D": "John Glenn"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-45",
+    "question": "X-15 pilots earned astronaut wings above what altitude roughly?",
+    "choices": {
+      "A": "50 miles",
+      "B": "100 miles",
+      "C": "25 miles",
+      "D": "10 miles"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-46",
+    "question": "Which nation recovered a capsule from space first with animals and returned them alive (Belka and Strelka)?",
+    "choices": {
+      "A": "United States",
+      "B": "Soviet Union",
+      "C": "China",
+      "D": "United Kingdom"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-47",
+    "question": "What was Alan Shepard's Mercury capsule name?",
+    "choices": {
+      "A": "Freedom 7",
+      "B": "Friendship 7",
+      "C": "Liberty Bell 7",
+      "D": "Faith 7"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "early-48",
+    "question": "How long was Gagarin's orbital flight approximately?",
+    "choices": {
+      "A": "12 minutes",
+      "B": "108 minutes",
+      "C": "5 hours",
+      "D": "1 day"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-49",
+    "question": "Which Gemini astronaut later commanded Apollo 13?",
+    "choices": {
+      "A": "Neil Armstrong",
+      "B": "Jim Lovell",
+      "C": "Frank Borman",
+      "D": "John Young"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "early-50",
+    "question": "What docking target did Gemini spacecraft practice with?",
+    "choices": {
+      "A": "Agena",
+      "B": "Salyut",
+      "C": "Skylab",
+      "D": "Progress"
+    },
+    "correct": "A"
+  }
+]
