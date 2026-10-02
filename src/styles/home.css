@@ -1,0 +1,205 @@
+.home {
+  position: relative;
+  min-height: 100dvh;
+  display: grid;
+  grid-template-rows: 1fr auto;
+  padding: clamp(12px, 2.5vw, 28px);
+  background:
+    radial-gradient(ellipse at 50% 40%, rgba(255, 255, 255, 0.35), transparent 55%),
+    linear-gradient(180deg, #f0eee6 0%, #d8d4ca 45%, #cfcabe 100%);
+  overflow: hidden;
+}
+
+.home::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background-image:
+    linear-gradient(90deg, rgba(120, 120, 110, 0.05) 1px, transparent 1px),
+    linear-gradient(rgba(120, 120, 110, 0.05) 1px, transparent 1px);
+  background-size: 48px 48px;
+  mask-image: radial-gradient(circle at center, black 20%, transparent 75%);
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+.home-grid {
+  position: relative;
+  z-index: 1;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr 1fr;
+  gap: clamp(14px, 2.5vw, 28px);
+  max-width: 1100px;
+  width: 100%;
+  margin: 0 auto;
+  align-content: center;
+  padding-block: clamp(8px, 2vh, 24px);
+}
+
+.home-center {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 3;
+  pointer-events: none;
+  animation: logoSettle 0.7s var(--ease-out) both;
+  filter: drop-shadow(0 6px 10px rgba(0, 0, 0, 0.28));
+}
+
+.home-center::before,
+.home-center::after {
+  content: "";
+  position: absolute;
+  background: rgba(90, 95, 100, 0.35);
+  z-index: -1;
+}
+
+.home-center::before {
+  width: min(42vw, 280px);
+  height: 2px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.home-center::after {
+  height: min(34vh, 220px);
+  width: 2px;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cat-tile {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  gap: 10px;
+  padding: 10px;
+  border-radius: 4px;
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, 0.55), rgba(180, 176, 165, 0.35));
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.7),
+    inset 0 -2px 6px rgba(0, 0, 0, 0.08),
+    0 8px 18px rgba(0, 0, 0, 0.12);
+  animation: fadeRise 0.55s var(--ease-out) both;
+  transition: transform 0.2s var(--ease-out), box-shadow 0.2s ease;
+  text-align: left;
+}
+
+.cat-tile:nth-child(1) {
+  animation-delay: 0.05s;
+}
+.cat-tile:nth-child(2) {
+  animation-delay: 0.12s;
+}
+.cat-tile:nth-child(3) {
+  animation-delay: 0.18s;
+}
+.cat-tile:nth-child(4) {
+  animation-delay: 0.24s;
+}
+
+.cat-tile:hover,
+.cat-tile:focus-visible {
+  transform: translateY(-3px) scale(1.01);
+  box-shadow:
+    inset 0 1px 0 rgba(255, 255, 255, 0.75),
+    0 14px 28px rgba(0, 0, 0, 0.16);
+  outline: none;
+}
+
+.cat-tile:active {
+  transform: translateY(1px) scale(0.995);
+}
+
+.cat-tile-media {
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  aspect-ratio: 16 / 10;
+  border: 2px solid rgba(70, 75, 80, 0.35);
+  box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.35);
+  background: #111;
+}
+
+.cat-tile-media img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.cat-tile-label {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 8px 12px;
+  border-radius: 4px;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  font-size: clamp(0.95rem, 2.2vw, 1.25rem);
+  letter-spacing: 0.02em;
+  color: var(--text-dark);
+  background:
+    linear-gradient(180deg, #f4f2ec 0%, #cfcabe 100%);
+  box-shadow:
+    inset 0 2px 3px rgba(255, 255, 255, 0.65),
+    inset 0 -2px 4px rgba(0, 0, 0, 0.12);
+}
+
+/* industrial corner brackets */
+.cat-tile-bracket {
+  position: absolute;
+  width: 28px;
+  height: 54px;
+  pointer-events: none;
+  opacity: 0.85;
+}
+
+.cat-tile:nth-child(1) .cat-tile-bracket,
+.cat-tile:nth-child(3) .cat-tile-bracket {
+  left: -6px;
+  top: 18%;
+}
+
+.cat-tile:nth-child(2) .cat-tile-bracket,
+.cat-tile:nth-child(4) .cat-tile-bracket {
+  right: -6px;
+  top: 18%;
+  transform: scaleX(-1);
+}
+
+.home-prompt {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 10px 12px 18px;
+  font-family: var(--font-display);
+  font-size: clamp(0.72rem, 2vw, 0.95rem);
+  font-weight: 600;
+  color: #3a3f48;
+  text-transform: uppercase;
+  animation: touchPulse 2.8s ease-in-out infinite;
+}
+
+@media (max-width: 700px) {
+  .home-grid {
+    gap: 12px;
+  }
+
+  .home-center svg {
+    width: 64px !important;
+    height: 64px !important;
+  }
+
+  .cat-tile-label {
+    font-size: 0.85rem;
+    min-height: 38px;
+    padding: 6px 8px;
+  }
+}

@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="n1" cx="70%" cy="40%" r="55%">
+      <stop offset="0%" stop-color="#ff7ad9" stop-opacity="0.85"/>
+      <stop offset="45%" stop-color="#7b2cff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#05010a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="n2" cx="30%" cy="70%" r="50%">
+      <stop offset="0%" stop-color="#ff4f8b" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#3a0a5c" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="star" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#fff"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="#05010a"/>
+  <rect width="1600" height="900" fill="url(#n1)"/>
+  <rect width="1600" height="900" fill="url(#n2)"/>
+  <g fill="#fff">
+    <circle cx="120" cy="80" r="1.5"/><circle cx="300" cy="140" r="1"/><circle cx="480" cy="60" r="1.2"/>
+    <circle cx="700" cy="200" r="1"/><circle cx="900" cy="90" r="1.4"/><circle cx="1100" cy="160" r="1"/>
+    <circle cx="1300" cy="70" r="1.3"/><circle cx="1500" cy="180" r="1"/><circle cx="200" cy="400" r="1.1"/>
+    <circle cx="450" cy="500" r="1"/><circle cx="800" cy="450" r="1.2"/><circle cx="1050" cy="520" r="1"/>
+    <circle cx="1250" cy="400" r="1.4"/><circle cx="1450" cy="480" r="1"/><circle cx="100" cy="700" r="1"/>
+    <circle cx="350" cy="750" r="1.2"/><circle cx="600" cy="680" r="1"/><circle cx="950" cy="720" r="1.3"/>
+    <circle cx="1200" cy="780" r="1"/><circle cx="1400" cy="650" r="1.1"/>
+  </g>
+  <g transform="translate(820 380)">
+    <circle r="6" fill="#fff"/>
+    <g stroke="#fff" stroke-width="1.5" opacity="0.9">
+      <line x1="-28" y1="0" x2="28" y2="0"/>
+      <line x1="0" y1="-28" x2="0" y2="28"/>
+    </g>
+    <circle r="40" fill="url(#star)" opacity="0.35"/>
+  </g>
+</svg>

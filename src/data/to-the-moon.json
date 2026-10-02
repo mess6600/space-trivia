@@ -1,0 +1,552 @@
+[
+  {
+    "id": "moon-01",
+    "question": "What was the first man-made object to reach the Moon?",
+    "choices": {
+      "A": "Eagle",
+      "B": "Luna 2",
+      "C": "Apollo 8",
+      "D": "Ranger 1"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-02",
+    "question": "Who was the first human to walk on the Moon?",
+    "choices": {
+      "A": "Buzz Aldrin",
+      "B": "Neil Armstrong",
+      "C": "Michael Collins",
+      "D": "Pete Conrad"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-03",
+    "question": "Which mission first landed humans on the Moon?",
+    "choices": {
+      "A": "Apollo 10",
+      "B": "Apollo 11",
+      "C": "Apollo 12",
+      "D": "Apollo 8"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-04",
+    "question": "What was the lunar module name for Apollo 11?",
+    "choices": {
+      "A": "Columbia",
+      "B": "Eagle",
+      "C": "Intrepid",
+      "D": "Aquarius"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-05",
+    "question": "What was Apollo 11's command module called?",
+    "choices": {
+      "A": "Eagle",
+      "B": "Columbia",
+      "C": "Yankee Clipper",
+      "D": "Odyssey"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-06",
+    "question": "In what year did Apollo 11 land?",
+    "choices": {
+      "A": "1967",
+      "B": "1968",
+      "C": "1969",
+      "D": "1970"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-07",
+    "question": "Which Apollo mission first orbited the Moon with crew?",
+    "choices": {
+      "A": "Apollo 7",
+      "B": "Apollo 8",
+      "C": "Apollo 9",
+      "D": "Apollo 10"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-08",
+    "question": "Who said \"Houston, we've had a problem\" on Apollo 13?",
+    "choices": {
+      "A": "Jim Lovell",
+      "B": "Jack Swigert",
+      "C": "Fred Haise",
+      "D": "Ken Mattingly"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-09",
+    "question": "Which rocket launched Apollo Moon missions?",
+    "choices": {
+      "A": "Titan II",
+      "B": "Saturn V",
+      "C": "Atlas",
+      "D": "Delta"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-10",
+    "question": "How many astronauts walked on the Moon?",
+    "choices": {
+      "A": "6",
+      "B": "9",
+      "C": "12",
+      "D": "15"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-11",
+    "question": "Which Apollo mission was the first to use a lunar rover?",
+    "choices": {
+      "A": "Apollo 11",
+      "B": "Apollo 14",
+      "C": "Apollo 15",
+      "D": "Apollo 17"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-12",
+    "question": "Who was the last person to walk on the Moon (to date)?",
+    "choices": {
+      "A": "Gene Cernan",
+      "B": "Harrison Schmitt",
+      "C": "John Young",
+      "D": "Dave Scott"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-13",
+    "question": "Which Apollo mission landed near Surveyor's site?",
+    "choices": {
+      "A": "Apollo 11",
+      "B": "Apollo 12",
+      "C": "Apollo 14",
+      "D": "Apollo 16"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-14",
+    "question": "What sea did Apollo 11 land in?",
+    "choices": {
+      "A": "Sea of Clouds",
+      "B": "Sea of Tranquility",
+      "C": "Sea of Serenity",
+      "D": "Ocean of Storms"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-15",
+    "question": "Who stayed in lunar orbit during Apollo 11's landing?",
+    "choices": {
+      "A": "Buzz Aldrin",
+      "B": "Michael Collins",
+      "C": "Jim Lovell",
+      "D": "Bill Anders"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-16",
+    "question": "Which Apollo mission had a geologist on the surface?",
+    "choices": {
+      "A": "Apollo 15",
+      "B": "Apollo 16",
+      "C": "Apollo 17",
+      "D": "Apollo 14"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-17",
+    "question": "What was the name of Apollo 13's lunar module?",
+    "choices": {
+      "A": "Eagle",
+      "B": "Aquarius",
+      "C": "Antares",
+      "D": "Challenger"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-18",
+    "question": "Which mission was a dress rehearsal for landing, descending close but not touching?",
+    "choices": {
+      "A": "Apollo 9",
+      "B": "Apollo 10",
+      "C": "Apollo 8",
+      "D": "Apollo 7"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-19",
+    "question": "Who photographed Earthrise on Apollo 8?",
+    "choices": {
+      "A": "Frank Borman",
+      "B": "Jim Lovell",
+      "C": "Bill Anders",
+      "D": "Neil Armstrong"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-20",
+    "question": "What is the Moon's average distance from Earth?",
+    "choices": {
+      "A": "238,855 miles",
+      "B": "93 million miles",
+      "C": "1 light-year",
+      "D": "10,000 miles"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-21",
+    "question": "Does the Moon have a substantial atmosphere?",
+    "choices": {
+      "A": "Yes, like Earth",
+      "B": "No, only an exosphere",
+      "C": "Yes, mostly oxygen",
+      "D": "Yes, mostly CO2"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-22",
+    "question": "What causes lunar maria (dark plains)?",
+    "choices": {
+      "A": "Ancient oceans of water",
+      "B": "Basaltic lava flows",
+      "C": "Impact glass only",
+      "D": "Vegetation"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-23",
+    "question": "Which U.S. robotic program hard-landed photos before Apollo?",
+    "choices": {
+      "A": "Surveyor",
+      "B": "Ranger",
+      "C": "Lunar Orbiter",
+      "D": "Pioneer"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-24",
+    "question": "Which program achieved soft landings before Apollo?",
+    "choices": {
+      "A": "Ranger",
+      "B": "Surveyor",
+      "C": "Mariner",
+      "D": "Viking"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-25",
+    "question": "What is a mascon on the Moon?",
+    "choices": {
+      "A": "A mountain range",
+      "B": "A mass concentration affecting orbits",
+      "C": "A type of crater",
+      "D": "A dust storm"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-26",
+    "question": "Which Apollo mission was struck by lightning after launch but continued?",
+    "choices": {
+      "A": "Apollo 11",
+      "B": "Apollo 12",
+      "C": "Apollo 13",
+      "D": "Apollo 14"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-27",
+    "question": "Who golfed on the Moon?",
+    "choices": {
+      "A": "Neil Armstrong",
+      "B": "Alan Shepard",
+      "C": "Pete Conrad",
+      "D": "John Young"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-28",
+    "question": "Which mission carried the first lunar rover?",
+    "choices": {
+      "A": "Apollo 14",
+      "B": "Apollo 15",
+      "C": "Apollo 16",
+      "D": "Apollo 17"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-29",
+    "question": "What color is lunar dust typically described as up close?",
+    "choices": {
+      "A": "Bright white",
+      "B": "Charcoal gray/brown",
+      "C": "Blue",
+      "D": "Green"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-30",
+    "question": "How long is one lunar day (sunrise to sunrise) roughly?",
+    "choices": {
+      "A": "24 hours",
+      "B": "7 days",
+      "C": "29.5 days",
+      "D": "365 days"
+    },
+    "correct": "C"
+  },
+  {
+    "id": "moon-31",
+    "question": "What is the Moon's gravity compared to Earth's?",
+    "choices": {
+      "A": "About 1/6",
+      "B": "About 1/2",
+      "C": "Equal",
+      "D": "Twice"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-32",
+    "question": "Which Soviet probe returned lunar samples robotically?",
+    "choices": {
+      "A": "Luna 16",
+      "B": "Luna 2",
+      "C": "Luna 9",
+      "D": "Lunokhod 1"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-33",
+    "question": "What was Lunokhod?",
+    "choices": {
+      "A": "A crewed lander",
+      "B": "A Soviet lunar rover",
+      "C": "A U.S. satellite",
+      "D": "A rocket stage"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-34",
+    "question": "Which Apollo call sign was \"Houston\" referring to?",
+    "choices": {
+      "A": "Kennedy Space Center",
+      "B": "Mission Control in Houston",
+      "C": "A ship at sea",
+      "D": "A tracking plane"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-35",
+    "question": "What material did astronauts leave as a science experiment reflecting lasers?",
+    "choices": {
+      "A": "Flags only",
+      "B": "Retroreflectors",
+      "C": "Solar panels",
+      "D": "Fuel tanks"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-36",
+    "question": "Which mountain did Apollo 15 explore near?",
+    "choices": {
+      "A": "Mount Everest",
+      "B": "Hadley Rille / Apennines",
+      "C": "Tycho Peak",
+      "D": "Olympus Mons"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-37",
+    "question": "What was the Saturn V's third stage used for after TLI?",
+    "choices": {
+      "A": "Discarded immediately always",
+      "B": "S-IVB could help send craft toward Moon",
+      "C": "Lunar landing",
+      "D": "Earth reentry"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-38",
+    "question": "Who was Apollo 11's backup commander?",
+    "choices": {
+      "A": "Jim Lovell",
+      "B": "John Young",
+      "C": "Pete Conrad",
+      "D": "Tom Stafford"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-39",
+    "question": "What does LM stand for?",
+    "choices": {
+      "A": "Lunar Module",
+      "B": "Launch Motor",
+      "C": "Long Mission",
+      "D": "Lateral Maneuver"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-40",
+    "question": "Which Apollo mission aborted its lunar landing after an oxygen tank explosion?",
+    "choices": {
+      "A": "Apollo 13",
+      "B": "Apollo 11",
+      "C": "Apollo 12",
+      "D": "Apollo 14"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-41",
+    "question": "Where did China land Chang'e-4?",
+    "choices": {
+      "A": "Near side",
+      "B": "Far side",
+      "C": "Polar ice only",
+      "D": "Earth orbit"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-42",
+    "question": "What is Artemis II planned to do?",
+    "choices": {
+      "A": "Land first",
+      "B": "Crewed lunar flyby/orbit",
+      "C": "Mars landing",
+      "D": "ISS only"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-43",
+    "question": "Which rock type is common in highland regions?",
+    "choices": {
+      "A": "Basalt",
+      "B": "Anorthosite",
+      "C": "Obsidian",
+      "D": "Sandstone"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-44",
+    "question": "What protects lunar samples from contamination on return?",
+    "choices": {
+      "A": "Vacuum bags only",
+      "B": "Special quarantine and sealed containers",
+      "C": "Nothing",
+      "D": "Water immersion"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-45",
+    "question": "Who was the second person on the Moon?",
+    "choices": {
+      "A": "Michael Collins",
+      "B": "Buzz Aldrin",
+      "C": "Pete Conrad",
+      "D": "Alan Bean"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-46",
+    "question": "What phrase did Armstrong say about a small step?",
+    "choices": {
+      "A": "One small step for a man...",
+      "B": "The Eagle has melted",
+      "C": "Tranquility base online",
+      "D": "We came in peace only"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-47",
+    "question": "Which mission deployed a central station ALSEP package early on?",
+    "choices": {
+      "A": "Apollo 11 (ESEPs) / later ALSEP missions",
+      "B": "Only Apollo 17",
+      "C": "None",
+      "D": "Gemini 12"
+    },
+    "correct": "A"
+  },
+  {
+    "id": "moon-48",
+    "question": "What is the South Pole–Aitken basin?",
+    "choices": {
+      "A": "An Earth crater",
+      "B": "A huge lunar impact basin",
+      "C": "A Mars valley",
+      "D": "A Saturn ring gap"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-49",
+    "question": "Why are lunar poles of interest for Artemis?",
+    "choices": {
+      "A": "Warmer temperatures",
+      "B": "Possible water ice in permanently shadowed regions",
+      "C": "Thicker air",
+      "D": "Active volcanoes"
+    },
+    "correct": "B"
+  },
+  {
+    "id": "moon-50",
+    "question": "Which country launched Chandrayaan lunar missions?",
+    "choices": {
+      "A": "Japan",
+      "B": "India",
+      "C": "Australia",
+      "D": "Brazil"
+    },
+    "correct": "B"
+  }
+]
